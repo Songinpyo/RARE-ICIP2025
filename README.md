@@ -52,7 +52,6 @@ pip install -r requirements.txt
 This project supports the following datasets for traffic accident anticipation:
 - **DAD (Dashcam Accident Dataset)**
 - **CCD (Car Crash Dataset)**
-- **ROL (Rear-end Collision Likeliness)**
 
 Please download the datasets and place them in the `taa/data/` directory, or update the `root_path` in the corresponding configuration file (`.yaml`) in `taa/configs/`.
 
